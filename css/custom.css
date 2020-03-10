@@ -5,3 +5,8 @@
 #home-image {
 	max-height: 30%;
 }
+
+.footer-area.section-gap {
+	padding-top: 90px;
+	padding-bottom: 90px !important;
+}
