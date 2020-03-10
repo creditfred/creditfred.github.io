@@ -179,14 +179,17 @@ h4, h5, h6 {
 
 h1, .h1 {
   font-size: 36px;
+  font-weight: 200;
 }
 
 h2, .h2 {
   font-size: 30px;
+  font-weight: 300;
 }
 
 h3, .h3 {
   font-size: 24px;
+  font-weight: 600;
 }
 
 h4, .h4 {
@@ -2071,7 +2074,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover > a, .menu-active, .parent-active > .sf-with-ul {
-  color: #8490ff !important;
+  color: #20a7ff !important
 }
 
 /*--------------------------------------------------------------
@@ -2313,7 +2316,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*  Homepage Styles
 /* =================================== */
 .section-gap {
-  padding: 120px 0;
+  padding: 60px 0;
 }
 
 .alert-msg {
@@ -2321,15 +2324,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner, .sb_bar {
-  background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  background: -moz-linear-gradient(69deg, #2193b0 0%, #2daaff 100%);
+  background: -webkit-linear-gradient(69deg, #2193b0 0%, #2daaff 100%);
+  background: -ms-linear-gradient(69deg, #2193b0 0%, #2daaff 100%);
 }
 
 .p1-gradient-color, .single-services:hover .lnr {
-  background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  background: -moz-linear-gradient(69deg, #2193b0 0%, #2daaff 100%);
+  background: -webkit-linear-gradient(69deg, #2193b0 0%, #2daaff 100%);
+  background: -ms-linear-gradient(69deg, #2193b0 0%, #2daaff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
